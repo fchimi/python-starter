@@ -3,6 +3,7 @@
 #--param OPENAI_API_KEY $OPENAI_API_KEY
 #--kind python:default
 
+"""
 from openai import AzureOpenAI
 
 class Chatbot:
@@ -45,3 +46,4 @@ def main(args):
     return {
         "body": res
     }
+"""
